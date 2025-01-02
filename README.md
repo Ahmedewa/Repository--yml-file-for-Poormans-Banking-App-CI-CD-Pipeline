@@ -1,4 +1,4 @@
-# Repository--yml-file-for-Poormans-Banking-App-CI-CD-Pipeline
+ Directions# Repository--yml-file-for-Poormans-Banking-App-CI-CD-Pipeline
 Repository for "Poormans Bank" App (.yml file)      .YAML file:
 
 yaml
